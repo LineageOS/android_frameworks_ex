@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_78c18e2e",
+        "filename": "camera2/portability/src/com/android/ex/camera2/portability/AndroidCameraCapabilities.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-12-16T01:04:37Z",
+      "side": 1,
+      "message": "You don\u0027t need parentheses around p.isZoomSupported()",
+      "revId": "4f8d1098f5dbb3d44f37f706909844da522be8d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
